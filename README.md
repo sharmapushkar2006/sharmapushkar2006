@@ -50,6 +50,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharmapushkar2006&show_icons=true&theme=dark" alt="Pushkar's GitHub Stats" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmapushkar2006&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 ---
 
 <!--### Top Projects
