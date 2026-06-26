@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Pushkar Sharma</h1>
 
-<!--
-**sharmapushkar2006/sharmapushkar2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Passionate Developer | Problem Solver | DSA Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/pushkarsharma2006/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/i_ampushkar">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### About Me
+
+- Always eager to build, learn, and experiment with new technologies.
+- Currently diving deep into **Data Science & Machine Learning**, while continuing to master **Java** and core DSA.
+- Gearing up for my academic journey at **GGSIPU**.
+- Passionate about rapid prototyping, backend logic, and scalable databases.
+- Fun fact: I love tackling complex algorithmic challenges and breaking them down into simple code.
+
+---
+
+### Tech Stack & Tools
+
+**Languages & Core:**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+**Databases & Backend Services:**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+**Core Competencies:**
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF4B4B?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square" alt="ML" />
+</p>
+
+---
+
+<!--### Top Projects
+
+*(Projects coming soon...)*
+
+Format for when you are ready to add projects:
+- [**Project Name 1**](link) - Brief description of what it does and the tech stack used.
+- [**Project Name 2**](link) - Brief description of what it does and the tech stack used.
 -->
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PushkarSharma2006&show_icons=true&theme=radium" alt="Pushkar's GitHub Stats" />
+</p>
