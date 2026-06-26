@@ -47,9 +47,9 @@
 </p>
 ### GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharmapushkar2006&show_icons=true&theme=dark" alt="Pushkar's GitHub Stats" />
-</p>
+</p>-->
 
 
 <p align="center">
