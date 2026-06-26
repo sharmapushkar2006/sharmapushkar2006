@@ -23,7 +23,7 @@
 
 ---
 
-### Tech Stack & Tools
+### Tech & Tools
 
 **Languages & Core:**
 <p>
@@ -62,5 +62,5 @@ Format for when you are ready to add projects:
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/PushkarSharma2006" alt="Pushkar's Contribution Graph" />
+  <img src="https://ghchart.rshah.org/sharmapushkar2006" alt="My Contribution Graph" />
 </p>
