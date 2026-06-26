@@ -45,7 +45,11 @@
   <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF4B4B?style=flat-square" alt="DSA" />
   <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square" alt="ML" />
 </p>
+### GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmapushkar2006&show_icons=true&theme=dark" alt="Pushkar's GitHub Stats" />
+</p>
 ---
 
 <!--### Top Projects
@@ -58,9 +62,3 @@ Format for when you are ready to add projects:
 -->
 
 ---
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/sharmapushkar2006" alt="My Contribution Graph" />
-</p>
