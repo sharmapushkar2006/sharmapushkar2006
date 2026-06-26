@@ -59,8 +59,8 @@ Format for when you are ready to add projects:
 
 ---
 
-### GitHub Stats
+### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PushkarSharma2006&show_icons=true&theme=radium" alt="Pushkar's GitHub Stats" />
+  <img src="https://ghchart.rshah.org/PushkarSharma2006" alt="Pushkar's Contribution Graph" />
 </p>
