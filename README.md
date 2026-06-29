@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmapushkar2006&layout=donut"
 </p>
-[![Trophy](https://github-profile-trophy.vercel.app/?username=TUMHARA_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&v=1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=merko&hide_border=true&area=true&custom_title=Contributions&max=30&cache_seconds=86400" alt="GitHub Activity Graph" />
