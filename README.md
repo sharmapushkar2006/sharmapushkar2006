@@ -45,9 +45,9 @@
   <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square" alt="ML" />
 </p>
 
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmapushkar2006&show_icons=true&theme=dark" alt="Pushkar's GitHub Stats" />
-</p>-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmapushkar2006&layout=donut"
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharmapushkar2006&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&cache_seconds=86400" alt="Pushkar's GitHub Stats" />
 </p>
