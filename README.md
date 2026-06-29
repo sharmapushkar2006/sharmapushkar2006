@@ -51,7 +51,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=merko&hide_border=true&area=true&custom_title=Contributions&max=30" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=merko&hide_border=true&area=true&custom_title=Contributions&max=30&cache_seconds=0" alt="GitHub Activity Graph" />
 </p>
 
 <!--### Top Projects
