@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF4B4B?style=flat-square" alt="DSA" />
   <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square" alt="ML" />
 </p>
-### GitHub Stats
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharmapushkar2006&show_icons=true&theme=dark" alt="Pushkar's GitHub Stats" />
@@ -52,9 +51,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=merko&max=30" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=merko&hide_border=true&area=true&custom_title=Contributions&max=30" alt="GitHub Activity Graph" />
 </p>
----
 
 <!--### Top Projects
 
