@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/pushkarsharma2006/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/i_ampushkar">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
 </p>
 
 ---
@@ -55,7 +52,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=merko" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=merko&max=30" alt="GitHub Streak" />
 </p>
 ---
 
