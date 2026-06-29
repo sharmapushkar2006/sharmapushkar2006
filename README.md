@@ -48,8 +48,9 @@
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharmapushkar2006&show_icons=true&theme=dark" alt="Pushkar's GitHub Stats" />
 </p>-->
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmapushkar2006&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs" alt="Pushkar's GitHub Stats" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=merko&hide_border=true&area=true&custom_title=Contributions&max=30&cache_seconds=0" alt="GitHub Activity Graph" />
 </p>
