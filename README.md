@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TUMHARA_USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&v=1" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&v=1" alt="Activity Graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=merko&hide_border=true&area=true&custom_title=Contributions&max=30&cache_seconds=86400" alt="GitHub Activity Graph" />
 </p>
 
