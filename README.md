@@ -55,7 +55,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=high-contrast" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&theme=merko" alt="GitHub Streak" />
 </p>
 ---
 
