@@ -12,12 +12,7 @@
 
 ### About Me
 
-- Always eager to build, learn, and experiment with new technologies.
-- Currently diving deep into **Data Science & Machine Learning**, while continuing to master **Java** and core DSA.
-- Gearing up for my academic journey at **GGSIPU**.
-- Passionate about rapid prototyping, backend logic, and scalable databases.
-- Fun fact: I love tackling complex algorithmic challenges and breaking them down into simple code.
-
+As an engineering student, I enjoy building complete, functional applications from the ground up. My foundation spans across frontend and backend development, utilizing Firebase for data management. While I am actively strengthening my core logic through DSA in Java, I am also deeply involved in the AI space—building AI agents and working with LLMs using Python. I am driven by the challenge of writing clean code and integrating modern AI capabilities into real-world applications.
 ---
 
 ### Tech & Tools
