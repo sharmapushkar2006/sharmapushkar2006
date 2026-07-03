@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Pushkar Sharma</h1>
 
-<h3 align="center">Passionate Developer | Problem Solver | DSA Enthusiast</h3>
+<h3 align="center">Web Developer | Flutter App Development | DSA in Java</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pushkarsharma2006/">
