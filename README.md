@@ -39,7 +39,8 @@
 
   <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square" alt="ML" />
 </p>
-<h2>Tools</h2>
+
+**Tools**
 
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
