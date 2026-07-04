@@ -59,4 +59,4 @@ Format for when you are ready to add projects:
 - [**Project Name 2**](link) - Brief description of what it does and the tech stack used.
 -->
 
----
+<img src="https://komarev.com/ghpvc/?sharmapushkar2006&color=green"alt="Profile Views"/>
