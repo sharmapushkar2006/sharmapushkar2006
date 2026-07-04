@@ -8,12 +8,11 @@
   </a>
 </p>
 
----
 
 ### About Me
 
 <p>As an engineering student, I enjoy building complete, functional applications from the ground up. My foundation spans across frontend and backend development, utilizing Firebase for data management. While I am actively strengthening my core logic through DSA in Java, I am also deeply involved in the AI space—building AI agents and working with LLMs using Python. I am driven by the challenge of writing clean code and integrating modern AI capabilities into real-world applications.</p>
----
+
 
 ### Tech & Tools
 
@@ -40,7 +39,7 @@
 
   <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square" alt="ML" />
 </p>
-**Tools**
+<h2>Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
