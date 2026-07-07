@@ -50,6 +50,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sharmapushkar2006&theme=radical"/><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&v=1" alt="Activity Graph" />
 </p>
 
