@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sharmapushkar2006/sharmapushkar2006/blob/main/github.gif?raw=true"width="50%"height="50%"/>
+  <img src="https://github.com/sharmapushkar2006/sharmapushkar2006/blob/main/github.gif?raw=true"width="50%"height="50%"style="border-radius:5px;box-shadow: 10px 10px 15px white"/>
 </p>
 <h1 align="center">Hi there, I'm Pushkar Sharma</h1>
 
