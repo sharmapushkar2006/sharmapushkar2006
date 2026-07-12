@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/sharmapushkar2006/sharmapushkar2006/blob/main/github.gif?raw=true"/>
+</p>
 <h1 align="center">Hi there, I'm Pushkar Sharma</h1>
 
 <h3 align="center">Frontend and Backend Developer | Flutter App Development | JAVA | Python  | Rust</h3>
