@@ -17,9 +17,15 @@
 </p>
 
 
-### About Me
+##  About Me
 
-<p>As an engineering student, I enjoy building complete, functional applications from the ground up. My foundation spans across frontend and backend development, utilizing Firebase for data management. While I am actively strengthening my core logic through DSA in Java, I am also deeply involved in the AI space—building AI agents and working with LLMs using Python. I am driven by the challenge of writing clean code and integrating modern AI capabilities into real-world applications.</p>
+ **Hi, I'm Pushkar Sharma!** I am an engineering student passionate about building complete, functional applications from scratch and solving complex real-world problems.
+
+*    **Full-Stack Development:** Experienced in building robust frontends and scalable backend architectures.
+*    **GenAI & Core Logic:** Deeply invested in the AI space—building intelligent agents, working with **LLMs using Python**, and strengthening core problem-solving via **Data Structures & Algorithms (DSA) in Java**.
+*    **Data Management:** Utilizing modern tools like **Firebase** and databases to manage data efficiently.
+
+>  *Driven by the challenge of writing clean, maintainable code and integrating cutting-edge AI capabilities into real-world applications.*
 
 
 ### Tech & Tools
@@ -55,8 +61,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sharmapushkar2006&theme=radical"/><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapushkar2006&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&v=1" alt="Activity Graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sharmapushkar2006&theme=synthwave"/><br>
+
 </p>
 
 <!--### Top Projects
