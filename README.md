@@ -3,8 +3,10 @@
 </p>
 <h1 align="center">Hi there, I'm Pushkar Sharma</h1>
 
-<h3 align="center">Frontend and Backend Developer | Flutter App Development | JAVA | Python  | Rust</h3>
-
+<h3 align="center"> I transform real-world problems into functional software.</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sharmapushkar2006/sharmapushkar2006/refs/heads/main/github-banner.png"alt="banner"/>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/pushkarsharma2006/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
