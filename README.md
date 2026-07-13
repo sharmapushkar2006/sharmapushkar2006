@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sharmapushkar2006&theme=synthwave"/><br>
+  <img src="https://github-stats-extended.vercel.app/api?username=sharmapushkar2006&theme=calm_pink"/><br>
 
 </p>
 
