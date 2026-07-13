@@ -5,7 +5,7 @@
 
 <h3 align="center"> I transform real-world problems into functional software.</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sharmapushkar2006/sharmapushkar2006/refs/heads/main/github-banner.png"alt="banner"/>
+  <img src="https://sharmapushkar2006.github.io/sharmapushkar2006/banner-small.png"alt="banner"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/pushkarsharma2006/">
