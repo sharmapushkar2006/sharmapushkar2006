@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"width="80%"height="50%"style="border:5px solid white;"/>
-</p>
 <h1 align="center">Hi there, I'm Pushkar Sharma</h1>
 
 <h3 align="center">Full-Stack Developer | Java & Python Backend Specialist</h3>
@@ -37,14 +34,11 @@
 
 ### Tech & Tools
 
-**Languages & Core:**
+**Additional Languages & Core:**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 **Databases & Backend Services:**
@@ -64,7 +58,7 @@
 **Tools**
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"height="60px" alt="Flutter"/>
 </p>
 
 <p align="center">
