@@ -26,8 +26,7 @@
  **Hi, I'm Pushkar Sharma!** I am an engineering student passionate about building complete, functional applications from scratch and solving complex real-world problems.
 
 *    **Full-Stack Development:** Experienced in building robust frontends and scalable backend architectures.
-*    **GenAI & Core Logic:** Deeply invested in the AI space—building intelligent agents, working with **LLMs using Python**, and strengthening core problem-solving via **Data Structures & Algorithms (DSA) in Java**.
-*    **Data Management:** Utilizing modern tools like **Firebase** and databases to manage data efficiently.
+*    **Data Management:** Utilizing modern tools like **Firebase/PostgreSQL/MongoDB** to manage data efficiently.
 
 >  *Driven by the challenge of writing clean, maintainable code and integrating cutting-edge AI capabilities into real-world applications.*
 
@@ -40,24 +39,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
-**Databases & Backend Services:**
+**Databases Services:**
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-**Core Competencies:**
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF4B4B?style=flat-square" alt="DSA" />
-
-  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square" alt="ML" />
-</p>
-
 **Tools**
 <p>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"height="60px" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"height="60px" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code" alt="vscode"/>
 </p>
 
 <p align="center">
