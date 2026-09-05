@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/sharmapushkar2006/Portfolio/refs/heads/master/hi%20there.gif">
 
-<h3 align="center">Software Developer |</h3>
+<h3 align="center">Backend Software Developer | Spring Boot& FastAPI </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pushkarsharma2006/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
