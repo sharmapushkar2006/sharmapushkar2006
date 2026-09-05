@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pushkar Sharma</h1>
+<img src="https://raw.githubusercontent.com/sharmapushkar2006/Portfolio/refs/heads/master/hi%20there.gif">
 
 <h3 align="center">Software Developer from India</h3>
 <p align="center">
